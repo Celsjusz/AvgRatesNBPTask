@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Luxdone\\": "src/"
+    }
+  },
+  "require": {
+    "php-di/php-di": "^7.0",
+    "ext-curl": "*"
+  }
+}
